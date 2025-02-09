@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Hi there, I'm Vitoria! 😁
 
  <div>
    <a href="https://github.com/kauppvgr">
